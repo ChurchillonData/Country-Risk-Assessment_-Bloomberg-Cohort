@@ -60,7 +60,7 @@ Parliamentary election dates:
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### Part 1: Term Identification Algorithm
 
