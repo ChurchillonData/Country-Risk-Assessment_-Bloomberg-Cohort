@@ -1,0 +1,511 @@
+country,political_system,leader,start_date,end_date,country_iso3
+Argentina,presidential,Maria Estela Martinez De Peron,1974-07-01,1976-03-29,ARG
+Argentina,presidential,Raul Alfonsin,1983-12-10,1989-07-08,ARG
+Argentina,presidential,Carlos Saul Menem,1989-07-08,1999-12-10,ARG
+Argentina,presidential,Fernando De La Rua,1999-12-10,2001-12-21,ARG
+Argentina,presidential,Eduardo Duhalde,2001-12-21,2001-12-23,ARG
+Argentina,presidential,Nestor Kirchner,2003-05-25,2007-12-10,ARG
+Argentina,presidential,Cristina Fernandez De Kirchner,2007-12-10,2015-12-10,ARG
+Argentina,presidential,Mauricio Macri,2015-12-10,2019-12-10,ARG
+Australia,parliamentary,William Mcmahon,1971-03-10,1972-12-05,AUS
+Australia,parliamentary,E. Gough Whitlam,1972-12-05,1975-11-11,AUS
+Australia,parliamentary,John Malcolm Fraser,1975-11-11,1983-03-11,AUS
+Australia,parliamentary,Robert Hawke,1983-03-11,1991-12-19,AUS
+Australia,parliamentary,Paul Keating,1991-12-19,1996-03-11,AUS
+Australia,parliamentary,John Howard,1996-03-11,2007-12-03,AUS
+Australia,parliamentary,Kevin Michael Rudd,2007-12-03,2010-06-24,AUS
+Australia,parliamentary,Julia Gillard,2010-06-24,2013-06-27,AUS
+Australia,parliamentary,Kevin Michael Rudd,2013-06-27,2013-09-18,AUS
+Australia,parliamentary,Tony Abbot,2013-09-18,2015-09-15,AUS
+Australia,parliamentary,Malcolm Bligh Turnbull,2015-09-15,2018-08-24,AUS
+Australia,parliamentary,Scott John Morrison,2018-08-24,2022-05-23,AUS
+Austria,parliamentary,Bruno Kreisky,1970-04-20,1983-05-24,AUT
+Austria,parliamentary,Fred Sinowatz,1983-05-24,1986-06-16,AUT
+Austria,parliamentary,Franz Vranitzky,1986-06-16,1997-01-28,AUT
+Austria,parliamentary,Viktor Klima,1997-01-28,2000-02-04,AUT
+Austria,parliamentary,Wolfgang Schuessel,2000-02-05,2007-01-11,AUT
+Austria,parliamentary,Alfred Gusenbauer,2007-01-11,2008-12-02,AUT
+Austria,parliamentary,Werner Faymann,2008-12-02,2015-12-31,AUT
+Austria,parliamentary,Christian Kern,2016-05-17,2017-12-18,AUT
+Austria,parliamentary,Sebastian Kurz,2017-12-18,2019-05-28,AUT
+Belgium,parliamentary,Gaston Eyskens,1968-06-17,1973-01-26,BEL
+Belgium,parliamentary,Edmond Leburton,1973-01-26,1974-04-24,BEL
+Belgium,parliamentary,Leo Tindemans,1974-04-25,1978-10-20,BEL
+Belgium,parliamentary,Wilfried Martens,1979-04-03,1981-04-06,BEL
+Belgium,parliamentary,Marc Eyskens,1981-04-06,1981-12-17,BEL
+Belgium,parliamentary,Wilfried Martens,1981-12-17,1992-03-07,BEL
+Belgium,parliamentary,Jean-Luc Dehaene,1992-03-07,1999-07-12,BEL
+Belgium,parliamentary,Guy Verhofstadt,1999-07-12,2008-03-20,BEL
+Belgium,parliamentary,Elio Di Rupo,2011-12-06,2014-10-11,BEL
+Belgium,parliamentary,Charles Yvon Michel,2014-10-11,2019-10-27,BEL
+Bulgaria,parliamentary,Petur Toshev Mladenov,1989-11-10,1990-07-06,BGR
+Bulgaria,parliamentary,Filip Dimitrov,1991-11-08,1992-12-30,BGR
+Bulgaria,parliamentary,Zhan Videnov,1995-01-25,1997-02-13,BGR
+Bulgaria,parliamentary,Ivan Kostov,1997-05-21,2001-07-21,BGR
+Bulgaria,parliamentary,Simeon Saxe-Coburg-Gotha,2001-07-24,2005-08-16,BGR
+Bulgaria,parliamentary,Sergei Stanishev,2005-08-16,2009-07-27,BGR
+Bulgaria,parliamentary,Boyko Borisov,2009-07-27,2013-03-13,BGR
+Bulgaria,parliamentary,Boyko Borisov,2014-11-07,2017-01-27,BGR
+Bulgaria,parliamentary,Boyko Borisov,2017-05-04,2021-05-12,BGR
+Bolivia,presidential,Hernan Siles Zuazo,1982-10-10,1985-08-06,BOL
+Bolivia,presidential,Victor Paz Estenssoro,1985-08-06,1989-08-06,BOL
+Bolivia,presidential,Jaime Paz Zamora,1989-08-06,1993-08-06,BOL
+Bolivia,presidential,Gonzalo Sanchez De Lozada Bustamante,1993-08-06,1997-08-06,BOL
+Bolivia,presidential,Hugo Banzer Suarez,1997-08-06,2001-08-07,BOL
+Bolivia,presidential,Jorge Fernando Quiroga Ramirez,2001-08-07,2002-08-06,BOL
+Bolivia,presidential,Gonzalo Sanchez De Lozada Bustamante,2002-08-08,2003-10-17,BOL
+Bolivia,presidential,Carlos Diego Mesa Gisbert,2003-10-17,2005-06-09,BOL
+Bolivia,presidential,Juan Evo Morales Ayma,2006-01-22,2019-11-10,BOL
+Brazil,presidential,Emilio Garrastazu Medici,1969-10-25,1974-03-15,BRA
+Brazil,presidential,Ernesto Geisel,1974-03-15,1979-03-15,BRA
+Brazil,presidential,Joao Baptista De Oliveira Figueiredo,1979-03-15,1985-03-21,BRA
+Brazil,presidential,Jose Sarney Costa,1985-03-21,1990-03-15,BRA
+Brazil,presidential,Itamar Franco,1992-10-02,1994-12-31,BRA
+Brazil,presidential,Fernando Henrique Cardoso,1995-01-01,2003-01-01,BRA
+Brazil,presidential,Luiz Inacio Lula Da Silva,2003-01-01,2011-01-01,BRA
+Brazil,presidential,Dilma Rousseff,2011-01-01,2016-08-31,BRA
+Brazil,presidential,Michel Temer,2016-08-31,2018-12-31,BRA
+Canada,parliamentary,Pierre Elliott Trudeau,1968-04-20,1979-06-04,CAN
+Canada,parliamentary,Charles Joseph Clark,1979-06-04,1980-03-03,CAN
+Canada,parliamentary,Pierre Elliott Trudeau,1980-03-03,1984-06-30,CAN
+Canada,parliamentary,John Napier Turner,1984-06-30,1984-09-17,CAN
+Canada,parliamentary,Brian Mulroney,1984-09-17,1993-06-25,CAN
+Canada,parliamentary,Kim Campbell,1993-06-25,1993-11-04,CAN
+Canada,parliamentary,Jean Chretien,1993-11-04,2003-12-12,CAN
+Canada,parliamentary,Paul Martin,2003-12-12,2006-02-06,CAN
+Canada,parliamentary,Stephen Joseph Harper,2006-02-06,2015-11-04,CAN
+Canada,parliamentary,Justin Pierre James Trudeau,2015-11-04,,CAN
+Switzerland,presidential,Roger Bonvin,1973-01-01,1973-12-31,CHE
+Switzerland,presidential,Pierre Graber,1975-01-01,1975-12-31,CHE
+Switzerland,presidential,Rudolf Gnaegi,1976-01-01,1976-12-31,CHE
+Switzerland,presidential,Kurt Furgler,1977-01-01,1977-12-31,CHE
+Switzerland,presidential,Willi Ritschard,1978-01-01,1978-12-31,CHE
+Switzerland,presidential,Hans Hurlimann,1979-01-01,1979-12-31,CHE
+Switzerland,presidential,Kurt Furgler,1981-01-01,1981-12-31,CHE
+Switzerland,presidential,Pierre Aubert,1983-01-01,1983-12-31,CHE
+Switzerland,presidential,Leon Schlumpf,1984-01-01,1984-12-31,CHE
+Switzerland,presidential,Kurt Furgler,1985-01-01,1985-12-31,CHE
+Switzerland,presidential,Alphons Egli,1986-01-01,1986-12-31,CHE
+Switzerland,presidential,Pierre Aubert,1987-01-01,1987-12-31,CHE
+Switzerland,presidential,Otto Stich,1988-01-01,1988-12-31,CHE
+Switzerland,presidential,Arnold Koller,1990-01-01,1990-12-31,CHE
+Switzerland,presidential,Flavio Cotti,1991-01-01,1991-12-31,CHE
+Switzerland,presidential,Rene Felber,1992-01-01,1992-12-31,CHE
+Switzerland,presidential,Adolf Ogi,1993-01-01,1993-12-31,CHE
+Switzerland,presidential,Otto Stich,1994-01-01,1994-12-31,CHE
+Switzerland,presidential,Arnold Koller,1997-01-01,1997-12-31,CHE
+Switzerland,presidential,Flavio Cotti,1998-01-01,1998-12-31,CHE
+Switzerland,presidential,Ruth Dreifuss,1999-01-01,1999-12-31,CHE
+Switzerland,presidential,Adolf Ogi,2000-01-01,2000-12-31,CHE
+Switzerland,presidential,Moritz Leuenberger,2001-01-01,2001-12-31,CHE
+Switzerland,presidential,Joseph Deiss,2004-01-01,2004-12-31,CHE
+Switzerland,presidential,Samuel Schmid,2005-01-01,2005-12-31,CHE
+Switzerland,presidential,Moritz Leuenberger,2006-01-01,2006-12-31,CHE
+Switzerland,presidential,Micheline Calmy-Rey,2007-01-01,2007-12-31,CHE
+Switzerland,presidential,Doris Leuthard,2010-01-01,2010-12-31,CHE
+Switzerland,presidential,Micheline Calmy-Rey,2011-01-01,2011-12-31,CHE
+Switzerland,presidential,Eveline Widmer-Schlumpf,2012-01-01,2012-12-31,CHE
+Switzerland,presidential,Ueli Maurer,2013-01-01,2013-12-31,CHE
+Switzerland,presidential,Simonetta Sommaruga,2015-01-01,2015-12-31,CHE
+Switzerland,presidential,Doris Leuthard,2017-01-01,2017-12-31,CHE
+Switzerland,presidential,Alain Berset,2018-01-01,2018-12-31,CHE
+Switzerland,presidential,Ueli Maurer,2019-01-01,2019-12-31,CHE
+Chile,presidential,Salvador Allende Gossens,1970-11-04,1973-09-11,CHL
+Chile,presidential,Patricio Aylwin Azocar,1990-03-11,1994-03-11,CHL
+Chile,presidential,Eduardo Frei Ruiz-Tagle,1994-03-11,2000-03-11,CHL
+Chile,presidential,Ricardo Lagos Escobar,2000-03-12,2006-03-11,CHL
+Chile,presidential,Michelle Bachelet Jeria,2006-03-11,2010-03-11,CHL
+Chile,presidential,Sebastian Pinera Echenique,2010-03-11,2014-03-11,CHL
+Chile,presidential,Michelle Bachelet Jeria,2014-03-11,2018-03-11,CHL
+Chile,presidential,Sebastian Pinera Echenique,2018-03-11,2022-03-11,CHL
+Colombia,presidential,Misael Pastrana Borrero,1970-08-07,1974-08-07,COL
+Colombia,presidential,Alfonso Lopez Michelsen,1974-08-07,1978-08-07,COL
+Colombia,presidential,Julio Cesar Turbay Ayala,1978-08-07,1982-08-07,COL
+Colombia,presidential,Belisario Betancur Cuartas,1982-08-07,1986-08-07,COL
+Colombia,presidential,Virgilio Barco Vargas,1986-08-07,1990-08-07,COL
+Colombia,presidential,Cesar Gaviria Trujillo,1990-08-07,1994-08-07,COL
+Colombia,presidential,Ernesto Samper Pizano,1994-08-07,1998-08-07,COL
+Colombia,presidential,Andres Pastrana Arango,1998-08-07,2002-08-07,COL
+Colombia,presidential,Alvaro Uribe Velez,2002-08-08,2010-08-07,COL
+Colombia,presidential,Juan Manuel Santos Calderon,2010-08-07,2018-08-07,COL
+Cyprus,presidential,Spyros Kyprianou,1977-08-03,1988-02-28,CYP
+Cyprus,presidential,Glafcos Clerides,1993-02-28,2003-02-28,CYP
+Cyprus,presidential,Tassos Papadopoulos,2003-02-28,2008-02-28,CYP
+Cyprus,presidential,Demetris Christofias,2008-02-28,2013-02-28,CYP
+Cyprus,presidential,Nikos Anastasiadis,2013-02-28,2023-02-28,CYP
+Czech Republic,parliamentary,Vaclav Klaus,1993-01-01,1997-12-17,CZE
+Czech Republic,parliamentary,Milos Zeman,1998-07-17,2002-07-12,CZE
+Czech Republic,parliamentary,Vladimir Spidla,2002-07-12,2004-07-26,CZE
+Czech Republic,parliamentary,Jiri Paroubek,2005-04-25,2006-09-04,CZE
+Czech Republic,parliamentary,Mirek Topolanek,2006-09-04,2009-05-08,CZE
+Czech Republic,parliamentary,Jan Fischer,2009-05-08,2010-07-13,CZE
+Czech Republic,parliamentary,Petr Necas,2010-07-13,2013-07-10,CZE
+Czech Republic,parliamentary,Bohuslav Sobotka,2014-01-29,2017-12-13,CZE
+Czech Republic,parliamentary,Andrej Babis,2017-12-06,2021-12-17,CZE
+Germany,parliamentary,Helmut Kohl,1982-10-01,1998-10-27,DEU
+Germany,parliamentary,Gerhard Schroeder,1998-10-27,2005-11-22,DEU
+Germany,parliamentary,Angela Merkel,2005-11-22,2021-12-08,DEU
+Denmark,parliamentary,Jens Otto Krag,1971-10-11,1972-10-03,DNK
+Denmark,parliamentary,Anker Jorgensen,1972-10-05,1973-12-19,DNK
+Denmark,parliamentary,Poul Hartling,1973-12-19,1975-01-29,DNK
+Denmark,parliamentary,Anker Jorgensen,1975-02-13,1982-09-10,DNK
+Denmark,parliamentary,Poul Schluter,1982-09-10,1993-01-25,DNK
+Denmark,parliamentary,Poul Nyrup Rasmussen,1993-01-25,2001-11-27,DNK
+Denmark,parliamentary,Anders Fogh Rasmussen,2001-11-27,2009-04-05,DNK
+Denmark,parliamentary,Lars Loekke Rasmussen,2009-04-05,2011-10-03,DNK
+Denmark,parliamentary,Helle Thorning-Schmidt,2011-10-03,2015-12-31,DNK
+Denmark,parliamentary,Lars Loekke Rasmussen,2015-06-28,2019-06-27,DNK
+Denmark,parliamentary,Mette Frederiksen,2019-06-27,,DNK
+Ecuador,presidential,Oswaldo Hurtado Larrea,1981-05-24,1984-08-10,ECU
+Ecuador,presidential,Leon Febres-Cordero Ribadeneyra,1984-08-10,1988-08-10,ECU
+Ecuador,presidential,Rodrigo Borja Cevallos,1988-08-10,1992-08-10,ECU
+Ecuador,presidential,Sixto Duran-Ballen Cordovez,1992-08-10,1996-08-10,ECU
+Ecuador,presidential,Fabian Alarcon Rivera,1997-02-11,1998-08-10,ECU
+Ecuador,presidential,Jamil Mahuad,1998-08-10,2000-01-21,ECU
+Ecuador,presidential,Gustavo Noboa Bejarano,2000-01-22,2003-01-15,ECU
+Ecuador,presidential,Lucio Gutierrez Borbua,2003-01-15,2005-04-20,ECU
+Ecuador,presidential,Rafael Correa Delgado,2007-01-15,2017-05-24,ECU
+Ecuador,presidential,Lenin Moreno Garces,2017-05-24,2021-05-24,ECU
+Egypt,presidential,Anwar Al Sadat,1970-09-28,1981-10-06,EGY
+Egypt,presidential,Muhammad Hosni Mubarak,1981-10-14,2011-02-11,EGY
+Egypt,presidential,Muhammad Mursi,2012-06-30,2013-07-03,EGY
+Estonia,parliamentary,Mart Laar,1992-10-28,1994-11-08,EST
+Estonia,parliamentary,Tiit Vahi,1995-04-17,1997-03-17,EST
+Estonia,parliamentary,Mart Siimann,1995-04-17,1997-03-17,EST
+Estonia,parliamentary,Mart Siimann,1997-03-17,1999-03-25,EST
+Estonia,parliamentary,Mart Laar,1999-03-25,2002-01-28,EST
+Estonia,parliamentary,Siim Kallas,2002-01-28,2003-04-10,EST
+Estonia,parliamentary,Juhan Parts,2003-04-10,2005-04-13,EST
+Estonia,parliamentary,Andrus Ansip,2005-04-13,2014-03-26,EST
+Estonia,parliamentary,Taavi Roivas,2014-03-26,2016-11-23,EST
+Estonia,parliamentary,Juri Ratas,2016-11-23,2021-01-26,EST
+Finland,presidential,Urho Kekkonen,1956-03-01,1981-09-11,FIN
+Finland,presidential,Mauno Koivisto,1981-09-11,1994-03-01,FIN
+Finland,presidential,Martti Ahtisaari,1994-03-01,2000-03-01,FIN
+Finland,parliamentary,Paavo Lipponen,2000-03-01,2003-04-17,FIN
+Finland,parliamentary,Matti Taneli Vanhanen,2003-06-23,2010-06-22,FIN
+Finland,parliamentary,Mari Kiviniemi,2010-06-22,2011-06-22,FIN
+Finland,parliamentary,Jyrki Tapani Katainen,2011-06-22,2014-06-24,FIN
+Finland,parliamentary,Cai-Goran Alexander Stubb,2014-06-24,2015-06-29,FIN
+Finland,parliamentary,Juha Sipila,2015-05-29,2019-06-06,FIN
+Finland,parliamentary,Antti Rinne,2019-06-06,2019-12-10,FIN
+France,presidential,Georges Pompidou,1969-06-20,1974-04-02,FRA
+France,presidential,Valery Giscard Destaing,1974-05-27,1981-05-21,FRA
+France,presidential,Francois Mitterrand,1981-05-21,1995-05-17,FRA
+France,presidential,Jacques Chirac,1995-05-17,2007-05-16,FRA
+France,presidential,Nicolas Sarkozy,2007-05-16,2012-05-15,FRA
+France,presidential,Francois Hollande,2012-05-15,2017-05-14,FRA
+France,presidential,Emmanuel Macron,2017-05-14,,FRA
+United Kingdom,parliamentary,Edward Heath,1970-06-19,1974-03-04,GBR
+United Kingdom,parliamentary,Harold J. Wilson,1974-03-04,1976-04-05,GBR
+United Kingdom,parliamentary,L. James Callaghan,1976-04-05,1979-05-04,GBR
+United Kingdom,parliamentary,Margaret Thatcher,1979-05-04,1990-11-28,GBR
+United Kingdom,parliamentary,John Major,1990-11-28,1997-05-02,GBR
+United Kingdom,parliamentary,Tony Blair,1997-05-02,2007-06-27,GBR
+United Kingdom,parliamentary,Gordon Brown,2007-06-27,2010-05-11,GBR
+United Kingdom,parliamentary,David William Donald Cameron,2010-05-11,2016-07-13,GBR
+United Kingdom,parliamentary,Theresa Mary May,2016-07-13,2019-07-24,GBR
+United Kingdom,parliamentary,Boris Johnson,2019-07-24,2022-09-06,GBR
+Greece,parliamentary,Constantinos Karamanlis,1974-07-24,1980-05-09,GRC
+Greece,parliamentary,George Rallis,1980-05-09,1981-10-21,GRC
+Greece,parliamentary,Andreas Papandreou,1981-10-21,1989-07-02,GRC
+Greece,parliamentary,Tzannis Tzannetakis,1989-07-02,1989-10-11,GRC
+Greece,parliamentary,Konstantinos Mitsotakis,1990-04-11,1993-10-13,GRC
+Greece,parliamentary,Andreas Papandreou,1993-10-13,1995-11-20,GRC
+Greece,parliamentary,Konstantinos Simitis,1996-01-22,2004-03-10,GRC
+Greece,parliamentary,Costas Karamanlis,2004-03-10,2009-10-06,GRC
+Greece,parliamentary,George Papandreou,2009-10-06,2011-11-11,GRC
+Greece,parliamentary,Antonios Samaras,2012-06-20,2015-01-26,GRC
+Greece,parliamentary,Alexios Tsipras,2015-01-26,2019-07-08,GRC
+Croatia,parliamentary,Franjo Tudjman,1990-05-30,1999-11-26,HRV
+Croatia,parliamentary,Ivica Racan,2000-01-27,2003-12-23,HRV
+Croatia,parliamentary,Ivo Sanader,2003-12-23,2009-07-06,HRV
+Croatia,parliamentary,Jadranka Kosor,2009-07-06,2011-12-23,HRV
+Croatia,parliamentary,Zoran Milanovic,2011-12-23,2016-01-22,HRV
+Croatia,parliamentary,Andrej Plenkovic,2016-10-19,,HRV
+Hungary,parliamentary,Janos Kadar,1956-11-04,1988-05-22,HUN
+Hungary,parliamentary,Jozsef Antall,1990-05-03,1993-12-12,HUN
+Hungary,parliamentary,Peter Boross,1993-12-12,1994-07-15,HUN
+Hungary,parliamentary,Gyula Horn,1994-07-15,1998-07-06,HUN
+Hungary,parliamentary,Viktor Orban,1998-07-06,2002-05-27,HUN
+Hungary,parliamentary,Ferenc Gyurcsany,2004-09-29,2009-04-14,HUN
+Hungary,parliamentary,Viktor Orban,2010-05-29,,HUN
+Indonesia,presidential,Suharto,1966-03-12,1998-05-21,IDN
+Indonesia,presidential,B. J. Habibie,1998-05-21,1999-10-20,IDN
+Indonesia,presidential,Abdurrahman Wahid,1999-10-20,2001-07-23,IDN
+Indonesia,presidential,Megawati Soekarnoputri,2001-07-24,2004-10-20,IDN
+Indonesia,presidential,Susilo Bambang Yudhoyono,2004-10-20,2014-10-20,IDN
+Indonesia,presidential,"Joko ""Jokowi"" Widodo",2014-10-20,,IDN
+India,parliamentary,Indira Gandhi,1966-01-24,1977-03-22,IND
+India,parliamentary,Morarji Desai,1977-03-24,1979-06-15,IND
+India,parliamentary,Indira Gandhi,1980-01-14,1984-10-31,IND
+India,parliamentary,Rajiv Gandhi,1984-10-31,1989-12-02,IND
+India,parliamentary,Vishwanath Pratap Singh,1989-12-02,1990-11-10,IND
+India,parliamentary,P. V. Narasimha Rao,1991-06-21,1996-05-16,IND
+India,parliamentary,H. D. Deve Gowda,1996-06-01,1997-04-21,IND
+India,parliamentary,Atal Behari Vajpayee,1998-03-19,2004-05-22,IND
+India,parliamentary,Manmohan Singh,2004-05-22,2014-05-26,IND
+India,parliamentary,Narendra Modi,2014-05-29,,IND
+Ireland,parliamentary,Liam Cosgrave,1973-03-14,1977-07-05,IRL
+Ireland,parliamentary,John M. Lynch,1977-07-05,1979-12-11,IRL
+Ireland,parliamentary,Charles J. Haughey,1979-12-11,1981-06-30,IRL
+Ireland,parliamentary,Garret Fitzgerald,1981-06-30,1982-03-09,IRL
+Ireland,parliamentary,Charles J. Haughey,1982-03-09,1982-12-14,IRL
+Ireland,parliamentary,Garret Fitzgerald,1982-12-14,1987-03-10,IRL
+Ireland,parliamentary,Charles J. Haughey,1987-03-10,1992-02-11,IRL
+Ireland,parliamentary,Albert Reynolds,1992-02-11,1994-12-15,IRL
+Ireland,parliamentary,John Bruton,1994-12-15,1997-06-26,IRL
+Ireland,parliamentary,Bertie Ahern,1997-06-26,2008-05-07,IRL
+Ireland,parliamentary,Brian Cowen,2008-05-07,2011-03-09,IRL
+Ireland,parliamentary,Enda Kenny,2011-03-09,2017-06-14,IRL
+Ireland,parliamentary,Leo Varadkar,2017-06-14,2020-02-22,IRL
+Iceland,parliamentary,Olafur Johannesson,1971-07-14,1974-08-28,ISL
+Iceland,parliamentary,Geir Hallgrimsson,1974-08-29,1978-08-31,ISL
+Iceland,parliamentary,Olafur Johannesson,1978-08-31,1979-10-15,ISL
+Iceland,parliamentary,Gunnar Thoroddsen,1980-02-08,1983-05-26,ISL
+Iceland,parliamentary,Steingrimur Hermannsson,1983-05-26,1987-07-08,ISL
+Iceland,parliamentary,Thorsteinn Palsson,1987-07-08,1988-09-28,ISL
+Iceland,parliamentary,Steingrimur Hermannsson,1988-09-28,1991-04-30,ISL
+Iceland,parliamentary,David Oddsson,1991-04-30,2004-09-15,ISL
+Iceland,parliamentary,Halldor Asgrimsson,2004-09-15,2006-06-15,ISL
+Iceland,parliamentary,Geir Haarde,2006-06-15,2009-02-01,ISL
+Iceland,parliamentary,Johanna Sigurdardottir,2009-02-01,2013-05-23,ISL
+Iceland,parliamentary,Sigmundur David Gunnlaugsson,2013-05-23,2016-04-07,ISL
+Iceland,parliamentary,Sigurdur Ingi Johannsson,2016-04-07,2017-01-11,ISL
+Iceland,parliamentary,Bjarni Benedikstsson,2017-01-11,2017-11-30,ISL
+Iceland,parliamentary,Katrin Jakobsdottir,2017-11-30,,ISL
+Israel,parliamentary,Menachem Begin,1977-06-21,1983-10-10,ISR
+Israel,parliamentary,Yitzhak Shamir,1983-10-10,1984-09-14,ISR
+Israel,parliamentary,Yitzhak Shamir,1986-10-20,1992-07-12,ISR
+Israel,parliamentary,"Binyamin ""Bibi"" Netanyahu",1996-06-18,1999-07-06,ISR
+Israel,parliamentary,Ariel Sharon,2001-03-08,2006-01-04,ISR
+Israel,parliamentary,Ehud Olmert,2006-01-04,2009-03-31,ISR
+Israel,parliamentary,"Binyamin ""Bibi"" Netanyahu",2009-03-31,2021-06-13,ISR
+Italy,parliamentary,Giulio Andreotti,1972-02-18,1973-06-12,ITA
+Italy,parliamentary,Mariano Rumor,1973-07-08,1974-11-23,ITA
+Italy,parliamentary,Aldo Moro,1974-11-23,1976-07-30,ITA
+Italy,parliamentary,Giulio Andreotti,1976-07-30,1979-08-05,ITA
+Italy,parliamentary,Francesco Cossiga,1979-08-05,1980-10-18,ITA
+Italy,parliamentary,Amintore Fanfani,1982-11-30,1983-08-04,ITA
+Italy,parliamentary,Bettino Craxi,1983-08-04,1987-04-18,ITA
+Italy,parliamentary,Amintore Fanfani,1987-04-18,1987-07-29,ITA
+Italy,parliamentary,Ciriaco De Mita,1988-04-13,1989-07-12,ITA
+Italy,parliamentary,Giulio Andreotti,1989-07-23,1992-06-28,ITA
+Italy,parliamentary,Giuliano Amato,1992-06-28,1993-04-29,ITA
+Italy,parliamentary,Silvio Berlusconi,1994-05-11,1995-01-17,ITA
+Italy,parliamentary,Silvio Berlusconi,2001-06-11,2006-05-17,ITA
+Italy,parliamentary,Silvio Berlusconi,2008-05-08,2011-11-16,ITA
+Italy,parliamentary,Enrico Letta,2013-04-28,2014-02-22,ITA
+Italy,parliamentary,Matteo Renzi,2014-02-22,2016-12-12,ITA
+Italy,parliamentary,Paolo Gentiloni Silveri,2016-12-12,2018-06-01,ITA
+Japan,parliamentary,Kakuei Tanaka,1972-07-06,1974-12-09,JPN
+Japan,parliamentary,Takeo Miki,1974-12-09,1976-12-24,JPN
+Japan,parliamentary,Takeo Fukuda,1976-12-24,1978-12-07,JPN
+Japan,parliamentary,Masayoshi Ohira,1978-12-07,1980-06-12,JPN
+Japan,parliamentary,Zenko Suzuki,1980-07-17,1982-11-26,JPN
+Japan,parliamentary,Yasuhiro Nakasone,1982-11-26,1987-11-06,JPN
+Japan,parliamentary,Noboru Takeshita,1987-11-06,1989-06-02,JPN
+Japan,parliamentary,Sosuke Uno,1989-06-02,1989-08-09,JPN
+Japan,parliamentary,Toshiki Kaifu,1989-08-09,1991-11-06,JPN
+Japan,parliamentary,Kiichi Miyazawa,1991-11-06,1993-08-09,JPN
+Japan,parliamentary,Tomiichi Murayama,1994-06-29,1996-01-11,JPN
+Japan,parliamentary,Ryutaro Hashimoto,1996-01-11,1998-07-30,JPN
+Japan,parliamentary,Keizo Obuchi,1998-07-30,2000-04-02,JPN
+Japan,parliamentary,Yoshiro Mori,2000-04-05,2001-04-26,JPN
+Japan,parliamentary,Junichiro Koizumi,2001-04-26,2006-09-26,JPN
+Japan,parliamentary,Shinzo Abe,2006-09-26,2007-09-26,JPN
+Japan,parliamentary,Yasuo Fukuda,2007-09-26,2008-09-24,JPN
+Japan,parliamentary,Taro Aso,2008-09-24,2009-09-16,JPN
+Japan,parliamentary,Naoto Kan,2010-06-08,2011-09-02,JPN
+Japan,parliamentary,Yoshihiko Noda,2011-09-02,2012-12-26,JPN
+Japan,parliamentary,Shinzo Abe,2012-12-26,2020-09-16,JPN
+South Korea,presidential,Park Chong-Hui,1961-07-03,1979-10-26,KOR
+South Korea,presidential,Chun Doo Hwan,1980-08-27,1988-02-25,KOR
+South Korea,presidential,Roh Tae Woo,1988-02-25,1993-02-25,KOR
+South Korea,presidential,Kim Yong-Sam,1993-02-25,1998-02-25,KOR
+South Korea,presidential,Kim Dae-Jung,1998-02-25,2003-02-25,KOR
+South Korea,presidential,Roh Moo-Hyun,2003-02-25,2008-02-25,KOR
+South Korea,presidential,Lee Myung-Bak,2008-02-25,2013-02-25,KOR
+South Korea,presidential,Park Geun-Hye,2013-02-25,2017-03-10,KOR
+Lithuania,parliamentary,Vytautas Landsbergis,1990-03-11,1992-11-25,LTU
+Lithuania,parliamentary,Algirdas Mykolas Brazauskas,1992-11-25,1998-02-25,LTU
+Lithuania,parliamentary,Arturas Paulauskas,2004-04-06,2004-07-12,LTU
+Luxembourg,parliamentary,Gaston Thorn,1974-06-15,1979-07-19,LUX
+Luxembourg,parliamentary,Pierre Werner,1979-07-19,1984-07-20,LUX
+Luxembourg,parliamentary,Jacques Santer,1984-07-20,1995-01-20,LUX
+Luxembourg,parliamentary,Jean-Claude Juncker,1995-01-20,2013-12-04,LUX
+Luxembourg,parliamentary,Xavier Bettel,2013-12-04,2023-11-17,LUX
+Latvia,parliamentary,Ivars Godmanis,1990-05-03,1993-08-03,LVA
+Latvia,parliamentary,Valdis Birkavs,1993-08-03,1994-09-19,LVA
+Latvia,parliamentary,Maris Gailis,1994-09-19,1995-12-21,LVA
+Latvia,parliamentary,Guntars Krasts,1997-08-07,1998-11-26,LVA
+Latvia,parliamentary,Vilis Kristopans,1998-11-26,1999-07-16,LVA
+Latvia,parliamentary,Andris Berzins,2000-05-05,2002-11-07,LVA
+Latvia,parliamentary,Einars Repse,2002-11-07,2004-03-09,LVA
+Latvia,parliamentary,Indulis Emsis,2004-03-09,2004-12-02,LVA
+Latvia,parliamentary,Aigars Kalvitis,2004-12-02,2007-12-20,LVA
+Latvia,parliamentary,Ivars Godmanis,2007-12-20,2009-03-12,LVA
+Latvia,parliamentary,Valdis Dombrovskis,2009-03-12,2014-01-22,LVA
+Latvia,parliamentary,Laimdota Straujuma,2014-01-22,2016-02-11,LVA
+Latvia,parliamentary,Maris Kucinskis,2016-02-11,2019-01-23,LVA
+Latvia,parliamentary,Krisjanis Karins,2019-01-23,2023-09-15,LVA
+Mexico,presidential,Luis Echeverria Alvarez,1970-12-01,1976-12-01,MEX
+Mexico,presidential,Jose Lopez Portillo,1976-12-01,1982-12-01,MEX
+Mexico,presidential,Miguel De La Madrid Hurtado,1982-12-01,1988-12-01,MEX
+Mexico,presidential,Carlos Salinas De Gortari,1988-12-01,1994-11-30,MEX
+Mexico,presidential,Ernesto Zedillo Ponce De Leon,1994-12-01,2000-11-30,MEX
+Mexico,presidential,Vicente Fox Quesada,2000-12-01,2006-11-30,MEX
+Mexico,presidential,Felipe De Jesus Calderon Hinojosa,2006-12-01,2012-12-01,MEX
+Mexico,presidential,Enrique Pena Nieto,2012-12-01,2018-11-30,MEX
+Malta,parliamentary,Dominic Mintoff,1971-06-21,1984-12-22,MLT
+Malta,parliamentary,Karmenu Mifsud Bonnici,1984-12-22,1987-05-12,MLT
+Malta,parliamentary,Edward Fenech Adami,1987-05-12,1996-10-28,MLT
+Malta,parliamentary,Alfred Sant,1996-10-28,1998-09-06,MLT
+Malta,parliamentary,Edward Fenech Adami,1998-09-06,2004-03-23,MLT
+Malta,parliamentary,Lawrence Gonzi,2004-03-23,2013-03-11,MLT
+Malta,parliamentary,Joseph Muscat,2013-03-11,2020-01-13,MLT
+Malaysia,parliamentary,Abdul Razak Hussein,1970-09-22,1976-01-14,MYS
+Malaysia,parliamentary,Hussein Onn,1976-01-14,1981-07-16,MYS
+Malaysia,parliamentary,Mahathir Mohamad,1981-07-16,2003-10-31,MYS
+Malaysia,parliamentary,Abdullah Ahmad Badawi,2003-10-31,2009-04-03,MYS
+Malaysia,parliamentary,Najib Abdul Razak,2009-04-03,2018-05-10,MYS
+Netherlands,parliamentary,Barend W. Biesheuvel,1971-07-06,1973-05-11,NLD
+Netherlands,parliamentary,Johannes Den Uyl,1973-05-11,1977-12-19,NLD
+Netherlands,parliamentary,Andreas A. M. Van Agt,1977-12-19,1982-11-04,NLD
+Netherlands,parliamentary,Ruud Lubbers,1982-11-04,1994-08-22,NLD
+Netherlands,parliamentary,Wim Kok,1994-08-22,2002-07-22,NLD
+Netherlands,parliamentary,Jan Peter Balkenende,2002-07-22,2010-10-14,NLD
+Netherlands,parliamentary,Mark Rutte,2010-10-14,,NLD
+Norway,parliamentary,Lars Korvald,1972-10-17,1973-10-15,NOR
+Norway,parliamentary,Trygve Bratteli,1973-10-15,1976-01-09,NOR
+Norway,parliamentary,Odvar Nordli,1976-01-09,1981-02-04,NOR
+Norway,parliamentary,Gro Harlem Brundtland,1981-02-04,1981-10-14,NOR
+Norway,parliamentary,Kaare Willoch,1981-10-14,1986-05-09,NOR
+Norway,parliamentary,Gro Harlem Brundtland,1986-05-09,1989-10-16,NOR
+Norway,parliamentary,Jan P. Syse,1989-10-16,1990-11-03,NOR
+Norway,parliamentary,Gro Harlem Brundtland,1990-11-03,1996-10-25,NOR
+Norway,parliamentary,Thorbjorn Jagland,1996-10-25,1997-10-17,NOR
+Norway,parliamentary,Kjell Magne Bondevik,1997-10-17,1998-08-30,NOR
+Norway,parliamentary,Kjell Magne Bondevik,1998-09-24,2000-03-17,NOR
+Norway,parliamentary,Jens Stoltenberg,2000-03-17,2001-10-19,NOR
+Norway,parliamentary,Kjell Magne Bondevik,2001-10-19,2005-10-17,NOR
+Norway,parliamentary,Jens Stoltenberg,2005-10-17,2013-10-16,NOR
+Norway,parliamentary,Erna Solberg,2013-10-16,2021-10-14,NOR
+New Zealand,parliamentary,John R. Marshall,1972-02-07,1972-12-08,NZL
+New Zealand,parliamentary,Norman E. Kirk,1972-12-08,1974-08-31,NZL
+New Zealand,parliamentary,Wallace E. Rowling,1974-09-06,1975-12-12,NZL
+New Zealand,parliamentary,Robert D. Muldoon,1975-12-12,1984-07-26,NZL
+New Zealand,parliamentary,David Lange,1984-07-26,1989-08-08,NZL
+New Zealand,parliamentary,Geoffrey Palmer,1989-08-08,1990-09-04,NZL
+New Zealand,parliamentary,James B. Bolger,1990-10-27,1997-12-08,NZL
+New Zealand,parliamentary,Jennifer Shipley,1997-12-08,1999-12-10,NZL
+New Zealand,parliamentary,Helen Clark,1999-12-10,2008-11-19,NZL
+New Zealand,parliamentary,John Phillip Key,2008-11-19,2016-12-12,NZL
+New Zealand,parliamentary,Simon William English,2016-12-12,2017-10-26,NZL
+New Zealand,parliamentary,Jacinda Ardern,2017-10-26,2023-01-25,NZL
+Peru,presidential,Fernando Belaunde Terry,1980-07-28,1985-07-28,PER
+Peru,presidential,Alan Garcia Perez,1985-07-28,1990-07-28,PER
+Peru,presidential,Alberto Kenyo Fujimori Fujimori,1990-07-28,2000-11-22,PER
+Peru,presidential,Valentin Paniagua Corazao,2000-11-23,2001-07-28,PER
+Peru,presidential,Alejandro Toledo,2001-07-28,2006-07-28,PER
+Peru,presidential,Alan Garcia Perez,2006-07-28,2011-07-28,PER
+Peru,presidential,Ollanta Moises Humala Tasso,2011-07-28,2016-07-28,PER
+Peru,presidential,Pedro Pablo Kuczynski,2016-07-28,2018-03-23,PER
+Philippines,presidential,Ferdinand Marcos,1965-12-30,1986-02-25,PHL
+Philippines,presidential,Corazon C. Aquino,1986-02-25,1992-06-30,PHL
+Philippines,presidential,Fidel Ramos,1992-06-30,1998-06-30,PHL
+Philippines,presidential,Gloria Macapagal-Arroyo,2001-01-21,2010-06-30,PHL
+Philippines,presidential,Benigno Aquino Iii,2010-06-30,2016-06-30,PHL
+Philippines,presidential,Rodrigo Duterte,2016-06-30,2022-06-30,PHL
+Portugal,parliamentary,Marcello Jose Das Neves Caetano,1968-09-27,1974-04-25,PRT
+Portugal,parliamentary,Mario Alberto Nobre Lopez Soares,1976-07-23,1978-08-28,PRT
+Portugal,parliamentary,Carlos Alberto Da Mota Pinto,1978-11-22,1979-08-01,PRT
+Portugal,parliamentary,Francisco Sa Carneiro,1980-01-03,1980-12-04,PRT
+Portugal,parliamentary,Francisco Pinto Balsemao,1981-01-09,1983-06-09,PRT
+Portugal,parliamentary,Alberto Mario Soares,1983-06-09,1985-11-06,PRT
+Portugal,parliamentary,Anibal Cavaco Esilva,1985-11-06,1995-10-28,PRT
+Portugal,parliamentary,Antonio Guterres,1995-10-28,2002-04-06,PRT
+Portugal,parliamentary,Jose Manuel Durao Barroso,2002-04-06,2004-07-17,PRT
+Portugal,parliamentary,Jose Socrates,2005-03-12,2011-06-21,PRT
+Portugal,parliamentary,Pedro Manuel Passos Coelho Mamede,2011-06-21,2015-11-26,PRT
+Portugal,parliamentary,Antonio Luis Santos Da Costa,2015-11-26,,PRT
+Paraguay,presidential,Alfredo Stroessner,1954-07-11,1989-02-03,PRY
+Paraguay,presidential,Andres Rodriguez Pedotti,1989-02-03,1993-08-15,PRY
+Paraguay,presidential,Juan Carlos Wasmosy,1993-08-15,1998-08-15,PRY
+Paraguay,presidential,Luis Angel Gonzalez Macchi,1999-03-28,2003-08-15,PRY
+Paraguay,presidential,Oscar Nicanor Duarte Frutos,2003-08-15,2008-08-15,PRY
+Paraguay,presidential,Luis Federico Franco Gomez,2012-06-22,2013-08-15,PRY
+Paraguay,presidential,Horacio Cartes Jara,2013-08-15,2018-08-15,PRY
+Paraguay,presidential,Mario Abdo Benitez,2018-08-15,2023-08-15,PRY
+Slovakia,parliamentary,Jozef Moravcik,1994-03-16,1994-12-13,SVK
+Slovakia,parliamentary,Vladimir Meciar,1994-12-13,1998-10-30,SVK
+Slovakia,parliamentary,Mikulas Dzurinda,1998-10-30,2006-07-04,SVK
+Slovakia,parliamentary,Robert Fico,2006-07-04,2010-07-08,SVK
+Slovakia,parliamentary,Iveta Radicova,2010-07-08,2012-04-04,SVK
+Slovakia,parliamentary,Robert Fico,2012-04-04,2018-03-22,SVK
+Slovakia,parliamentary,Peter Pellegrini,2018-03-22,2020-03-21,SVK
+Slovenia,parliamentary,Janez Drnovsek,1992-05-14,2000-05-03,SVN
+Slovenia,parliamentary,Andrej Bajuk,2000-05-03,2000-11-17,SVN
+Slovenia,parliamentary,Janez Drnovsek,2000-11-17,2002-12-11,SVN
+Slovenia,parliamentary,Anton Rop,2002-12-11,2004-11-09,SVN
+Slovenia,parliamentary,Janez Jansa,2004-11-09,2008-11-21,SVN
+Slovenia,parliamentary,Borut Pahor,2008-11-21,2012-02-10,SVN
+Slovenia,parliamentary,Janez Jansa,2012-02-10,2013-03-20,SVN
+Slovenia,parliamentary,Alenka Bratusek,2013-03-20,2014-09-18,SVN
+Slovenia,parliamentary,Miro Cerar,2014-09-18,2018-09-13,SVN
+Sweden,parliamentary,Olof Palme,1969-10-14,1976-09-20,SWE
+Sweden,parliamentary,Thorbjorn Falldin,1976-10-04,1978-10-18,SWE
+Sweden,parliamentary,Ola Ullsten,1978-10-18,1979-10-09,SWE
+Sweden,parliamentary,Thorbjorn Falldin,1979-10-09,1982-10-07,SWE
+Sweden,parliamentary,Olof Palme,1982-10-07,1986-02-28,SWE
+Sweden,parliamentary,Ingvar Carlsson,1986-03-12,1991-10-30,SWE
+Sweden,parliamentary,Carl Bildt,1991-10-30,1994-10-07,SWE
+Sweden,parliamentary,Ingvar Carlsson,1994-10-07,1996-03-21,SWE
+Sweden,parliamentary,Goran Persson,1996-03-21,2006-10-06,SWE
+Sweden,parliamentary,Fredrik Reinfeldt,2006-10-06,2014-10-03,SWE
+Sweden,parliamentary,Stefan Lofven,2014-10-03,2021-11-30,SWE
+Thailand,parliamentary,M. R. Khukrit Pramot,1975-03-17,1976-04-16,THA
+Thailand,parliamentary,Seni Pramot,1976-04-20,1976-10-06,THA
+Thailand,parliamentary,Chatchai Chunhawan,1988-08-04,1991-02-23,THA
+Thailand,parliamentary,Chuan Likphai,1992-09-23,1995-07-13,THA
+Thailand,parliamentary,Banhan Sinlapa-Acha,1995-07-13,1996-12-01,THA
+Thailand,parliamentary,Chawalit Yongchaiyut,1996-12-01,1997-11-09,THA
+Thailand,parliamentary,Chuan Likphai,1997-11-09,2001-02-09,THA
+Thailand,parliamentary,Thaksin Chinnawat,2001-02-10,2006-09-19,THA
+Thailand,parliamentary,Abhisit Wechachiwa,2008-12-15,2011-08-08,THA
+Thailand,parliamentary,Yinglak Chinnawat,2011-08-08,2014-05-07,THA
+Uruguay,presidential,Juan Maria Bordaberry Arocena,1972-03-01,1976-06-12,URY
+Uruguay,presidential,Alberto Demicheli,1976-06-12,1976-09-01,URY
+Uruguay,presidential,Aparicio Mendez Manfredini,1976-09-01,1981-09-01,URY
+Uruguay,presidential,Julio Maria Sanguinetti,1985-03-01,1990-03-01,URY
+Uruguay,presidential,Luis Alberto Lacalle,1990-03-01,1995-03-01,URY
+Uruguay,presidential,Julio Maria Sanguinetti,1995-03-01,2000-03-01,URY
+Uruguay,presidential,Jorge Batlle,2000-03-02,2005-03-01,URY
+Uruguay,presidential,Tabare Vazquez,2005-03-01,2010-03-01,URY
+Uruguay,presidential,"Jose ""Pepe"" Mujica Cordano",2010-03-01,2015-03-01,URY
+Uruguay,presidential,Tabare Vazquez,2015-03-01,2020-03-01,URY
+United States,presidential,Richard Milhous Nixon,1969-01-20,1974-08-09,USA
+United States,presidential,Gerald Rudolph Ford Jr,1974-08-09,1977-01-20,USA
+United States,presidential,Jimmy Carter,1977-01-20,1981-01-20,USA
+United States,presidential,Ronald Reagan,1981-01-20,1989-01-20,USA
+United States,presidential,George H. W. Bush,1989-01-20,1993-01-20,USA
+United States,presidential,William Clinton,1993-01-20,2001-01-20,USA
+United States,presidential,George W. Bush,2001-01-21,2009-01-20,USA
+United States,presidential,Barack Obama,2009-01-20,2017-01-20,USA
+United States,presidential,Donald Trump,2017-01-21,2021-01-20,USA
+Venezuela,presidential,Rafael Caldera Rodriguez,1969-03-11,1974-03-12,VEN
+Venezuela,presidential,Carlos Andres Perez,1974-03-12,1979-03-12,VEN
+Venezuela,presidential,Luis Herrera Campins,1979-03-12,1984-02-02,VEN
+Venezuela,presidential,Jaime Lusinchi,1984-02-02,1989-02-02,VEN
+Venezuela,presidential,Carlos Andres Perez,1989-02-02,1993-08-31,VEN
+Venezuela,presidential,Rafael Caldera Rodriguez,1994-02-02,1999-02-02,VEN
+Venezuela,presidential,Hugo Chavez Frias,1999-02-02,2012-03-05,VEN
+Venezuela,presidential,Nicolas Maduro Moros,2012-03-05,,VEN
+South Africa,parliamentary,Balthazar Johannes Vorster,1966-09-13,1978-09-28,ZAF
+South Africa,parliamentary,Peter Willem Botha,1978-09-28,1989-01-18,ZAF
+South Africa,parliamentary,Peter Willem Botha,1989-03-15,1989-08-14,ZAF
+South Africa,parliamentary,F. W. De Klerk,1989-08-15,1994-05-10,ZAF
+South Africa,parliamentary,Nelson Mandela,1994-05-10,1999-06-16,ZAF
+South Africa,parliamentary,Thabo Mbeki,1999-06-16,2008-09-25,ZAF
+South Africa,parliamentary,Jacob Zuma,2009-05-09,2018-02-14,ZAF
+South Africa,parliamentary,Matamela Cyril Ramaphosa,2018-02-15,,ZAF
